@@ -18,6 +18,10 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
+#Page1 h1.wow, #Page2 h1.wow, #Page3 h1.wow, #Page4 h1.wow, #Page5 h1.wow, #Page6 h1.wow, #Page7 h1.wow  {
+    font-size: initial;
+}
+
 @font-face {
   font-family: selima;
   src: url(./font/selima/selima_.otf);
@@ -608,7 +612,7 @@ a:hover{
     position:relative;
     font-family:"freight-display-pro", freight, serif;
     font-weight:400;
-    font-size:7.2rem;
+    font-size:3.9rem;
     color:#111111;
     width:100rem;
     line-height:1.3em;
@@ -995,9 +999,13 @@ a:hover{
 }
 
 #img01{
+    width:112.8rem;
+    height:63.3rem;
     background:url('images/beach_walk.jpg') center center no-repeat;
     background-size: cover;
-    margin:3.6rem;
+    position:relative;
+    z-index:1;
+    margin:3.6rem auto 7.2rem auto;
     background-color:#ffffff;
 }
 
