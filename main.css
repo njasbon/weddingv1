@@ -738,7 +738,7 @@ a:hover{
 }
 
 
-#Page5 h1{
+#Page5 h1, #Page8 h1{
     font-family:"brandon-grotesque", 'brandon', sans-serif;
     font-size:12;
     text-align:left;
@@ -754,10 +754,15 @@ a:hover{
     position:relative;
 }
 
+#Page8 {
+  font-size: initial;
+  font-family: freight-display-pro;
+}
+
 #piccenter {
   display: flex;
   justify-content: space-around;
-  
+
 }
 
 #Page5 #logoCon{
