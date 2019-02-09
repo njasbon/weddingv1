@@ -652,16 +652,6 @@ a:hover{
     z-index:1;
 }
 
-#drinksIcon{
-    position:absolute;
-    display:block;
-    height:150px;
-    width:300px;
-    top:calc(100% + 3rem);
-    left:calc(50% - 150px);
-    z-index:1;
-}
-
 #Page4 .headline{
     position:relative;
     top:0px;
