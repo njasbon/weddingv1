@@ -824,11 +824,6 @@ a:hover{
     cursor:default;
 }
 
-#Page6 .instagram{
-    background:url('images/instagram.png') no-repeat top center;
-    background-size: cover;
-}
-
 
 #Page6 .reminder{
     display:block;
@@ -1024,14 +1019,14 @@ a:hover{
 }
 
 #img04{
-    background:url('images/black_white_polo.jpg') center center no-repeat;
+    background:url('/images/black_white_polo.jpg') center center no-repeat;
     background-size: cover;
     margin:5.4rem .5rem 3.6rem 3.6rem;
     background-color:#ffffff;
 }
 
 #img05{
-    background:url('images/g_nico_polo3.jpg') center center no-repeat;
+    background:url('/images/g_nico_polo3.jpg') center center no-repeat;
     background-size: cover;
     margin:0rem 3.6rem 9rem .5rem;
     background-color:#ffffff;
@@ -1039,14 +1034,14 @@ a:hover{
 }
 
 #img07{
-    background:url('images/bride_photo.jpg') center center no-repeat;
+    background:url('/images/bride_photo.jpg') center center no-repeat;
     background-size: cover;
     margin:5.4rem 3.6rem 3.6rem .5rem;
     background-color:#ffffff;
 }
 
 #img06{
-    background:url('images/g_apple.jpeg') center center no-repeat;
+    background:url('/images/g_apple.jpeg') center center no-repeat;
     background-size: cover;
     margin:0rem .5rem 9rem 3.6rem;
     background-color:#ffffff;
@@ -1055,7 +1050,7 @@ a:hover{
 #img02{
     width:112.8rem;
     height:63.3rem;
-    background:url('images/unicorn.jpg') center center no-repeat;
+    background:url('/images/unicorn.jpg') center center no-repeat;
     background-size: cover;
     position:relative;
     z-index:1;
@@ -1064,7 +1059,7 @@ a:hover{
 }
 
 #img03{
-    background:url('images/g_nico_polo_hug.jpg') center center no-repeat;
+    background:url('/images/g_nico_polo_hug.jpg') center center no-repeat;
     background-size: cover;
     margin:3.6rem;
     background-color:#ffffff;
